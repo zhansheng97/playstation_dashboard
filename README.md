@@ -1,16 +1,19 @@
 # playstation_dashboard
 
-A new Flutter project.
+Reponsive Flutter Web Project based on the UI Design from dribble
 
-## Getting Started
+https://dribbble.com/shots/15661139-PlayStation-Dashboard/attachments/7455329?mode=media
 
-This project is a starting point for a Flutter application.
+## Web
+![image](https://user-images.githubusercontent.com/71022967/136673063-82ae503c-0249-4d5b-a473-09ccb7d330ef.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Tablet
+![image](https://user-images.githubusercontent.com/71022967/136673065-69911e0b-c6f2-456e-b92a-3154076c82c3.png)
+![image](https://user-images.githubusercontent.com/71022967/136673067-40ede003-8e7f-4105-a8b7-2a17f9e392db.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Mobile
+
+![image](https://user-images.githubusercontent.com/71022967/136673073-3f6c7576-8268-49b4-900f-83f6cf1deb3a.png)
+![image](https://user-images.githubusercontent.com/71022967/136673074-115d6044-4037-4409-9852-e2f3fe6880da.png)
